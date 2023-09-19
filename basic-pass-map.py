@@ -1,6 +1,6 @@
 from mplsoccer import Pitch, Sbopen
 
-# US Women vs Netherland's Women FIFA World Cup 2023
+# US Women vs Netherlands Women's FIFA World Cup 2023
 match_id = 3893808
 player = "Sophia Olivia Smith"
 
